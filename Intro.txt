@@ -1,0 +1,6 @@
+-Firstly, thanks to Khwopa College of Engineering for conduct
+ such amazing program during lockdown and immense thanks to all the instructors.
+-This is  a simple demonstration of web scrapping using python3.
+-Some basic skills of Python, HTML, CSS and Xpath is used. 
+-Title Author and Link of corresponding course from the website DataCamp is extracted in csv format.
+-I took assistance from Udemy course Advance web scraping with Python using Scrapy and Splash. 

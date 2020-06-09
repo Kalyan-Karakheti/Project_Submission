@@ -1,0 +1,8 @@
+pip
+scrapy  --- pip install  scrapy
+ (Since I was using PyCharm and scrapy wasn't installed in a direct manner firstly I install python extension package from
+  https://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted
+  since my python version was 3.8 I choose Twisted‑20.3.0‑cp38‑cp38‑win_amd64.whl
+  After this scrapy was installed
+  )  
+
